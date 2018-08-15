@@ -4,4 +4,4 @@ The accompanying PDF and housing dataset was from a presentation that I gave in 
 
 [https://www.meetup.com/msdevmtl/events/243333977](https://www.meetup.com/msdevmtl/events/243333977)
 
-![Meetup Details](https://imgur.com/a/hUUrLt0)
+![Meetup Details](https://i.imgur.com/S1B133R.png)
